@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+contact_links:
+  - name: おためしTODO
+    about: うまくいくかなぁ、どうかなぁ
+    # edit {username} and {repo} for your environment
+    url: https://github.com/upft-tnagura/dummy-v-ruler/issues/new?template=custom.md&projects=upft-tnagura%2Fdummy-v-ruler%2F1&labels=ToDo
